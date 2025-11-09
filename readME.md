@@ -3,13 +3,13 @@ Este é um script Python desenvolvido em Jupyter Notebook que organiza automatic
 
 ## 📋 Funcionalidades
 Organiza arquivos nas seguintes categorias:
-📸 Imagens (jpg, jpeg, png, gif, bmp, webp, svg, tiff)
-🎥 Vídeos (mp4, avi, mov, mkv, wmv, flv, webm, m4v)
-📄 Documentos (pdf, doc, docx, xls, xlsx, ppt, pptx, txt, rtf, odt, csv)
-🗜️ Arquivos Compactados (zip, rar, 7z, tar, gz, bz2)
-⚙️ Executáveis (exe, msi, dmg, pkg, deb, rpm)
-🎵 Áudio (mp3, wav, aac, flac, ogg, m4a, wma)
-💻 Código (py, js, html, css, java, c, cpp, h, json, xml)
+- 📸 Imagens (jpg, jpeg, png, gif, bmp, webp, svg, tiff)
+- 🎥 Vídeos (mp4, avi, mov, mkv, wmv, flv, webm, m4v)
+- 📄 Documentos (pdf, doc, docx, xls, xlsx, ppt, pptx, txt, rtf, odt, csv)
+- 🗜️ Arquivos Compactados (zip, rar, 7z, tar, gz, bz2)
+- ⚙️ Executáveis (exe, msi, dmg, pkg, deb, rpm)
+- 🎵 Áudio (mp3, wav, aac, flac, ogg, m4a, wma)
+- 💻 Código (py, js, html, css, java, c, cpp, h, json, xml)
 
 ## 🚀 Como Usar
 Abra o arquivo py.ipynb em um ambiente Jupyter Notebook
